@@ -1,16 +1,15 @@
-### Hi there 👋
+<samp>
+  
+## Hello there! :wink:
 
-<!--
-**DiegoAmancio/DiegoAmancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Diego.<br>
+Software Engineer @ Accenture.<br>
+Undergraduate Student in Computer Science @ UFCG.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a>
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/?username=DiegoAmancio&show_icons=true&theme=dracula&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&count_private=true&line_height=24" />
+</a>
+<a>
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoAmancio&show_icons=true&theme=dracula&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&layout=compact&card_width=267&langs_count=8" />
+</a>
