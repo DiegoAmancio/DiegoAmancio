@@ -4,8 +4,8 @@
 </h1>
 
 <p align='center' display="inline-block">
-  Application Development Senior Analyst at Accenture <br>
-  Bachelor’s Degree Computer Science UFCG <br>
+  Application Development Senior Analyst @ Accenture <br>
+  Bachelor of Computer Science @ UFCG <br>
   NodeJs developer from Brazil.
   
 </p>
