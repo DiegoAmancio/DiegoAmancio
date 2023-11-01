@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center' display="inline-block">
-  Application Development Senior Analyst @ Accenture <br>
+  Senior Software engineer   <br>
   Bachelor of Computer Science @ UFCG <br>
   NodeJs developer from Brazil.
   
